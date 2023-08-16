@@ -1,7 +1,7 @@
 # Comunity-driven Moldova cybersecurity framework
 
 **Resources:**
-- [HOTĂRÂRE Nr.201 2017 - Cerințe minime obligatorii de securitate cibernetică](http://me.gov.md/sites/default/files/hg_201_2017_cerinte_minime_obligatorii_de_securitate_cibernetica.pdf)
+- [HOTĂRÂRE Nr.201 2017 - Cerințe minime obligatorii de securitate cibernetică](https://www.legis.md/cautare/getResults?doc_id=98644&lang=ro)
 - [HOTĂRÂRE Nr.811 2015 - Programul național de securitate cibernetică 2016-2020](https://www.legis.md/cautare/getResults?doc_id=110324&lang=ro#)
 - [HOTĂRÂRE Nr.176 2017 - Anexa ISO27k Standarde moldovenești adoptate](https://www.standard.md/public/files/Hot-176-adoptare45c47.pdf)
 - [HOTĂRÂRE Nr.482 2020 - Aprobarea unor măsuri necesare pentru asigurarea securității cibernetice la nivel guvernamental](https://www.legis.md/cautare/getResults?doc_id=122272&lang=ro)
