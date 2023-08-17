@@ -6,6 +6,7 @@
 - [HOTĂRÂRE Nr.176 2017 - Anexa ISO27k Standarde moldovenești adoptate](https://www.standard.md/public/files/Hot-176-adoptare45c47.pdf)
 - [HOTĂRÂRE Nr.482 2020 - Aprobarea unor măsuri necesare pentru asigurarea securității cibernetice la nivel guvernamental](https://www.legis.md/cautare/getResults?doc_id=122272&lang=ro)
 - [HOTĂRÂRE Nr.26 2022 - Planului Individual de Acțiuni al Parteneriatului Republica Moldova – NATO pentru anii 2022-2023](https://www.legis.md/cautare/getResults?doc_id=129865&lang=ro)
+- [HOTĂRÂRE Nr.257 2018 - Aprobarea Strategiei securității informaționale 2019-2024](https://www.legis.md/cautare/getResults?doc_id=111979&lang=ro)
 - [LEGE Nr. 299 2017 - Aprobarea Concepţiei securităţii informaţionale a Republicii Moldova 2017/18](https://www.legis.md/cautare/getResults?doc_id=105660&lang=ro)
 - [LEGE Nr. 48 2023-25 - Privind securitatea cibernetică](https://www.legis.md/cautare/getResults?doc_id=136732&lang=ro)
 - [Model de politică internă completata](http://me.gov.md/sites/default/files/ordin_339_din_29.11.2017-politica_model_completata.pdf)
